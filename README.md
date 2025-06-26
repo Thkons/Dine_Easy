@@ -5,3 +5,5 @@ This is a fully functional table reservation application for restaurants, develo
     Admin: Admins have full access to the system. They can view, edit, and delete both user accounts and reservation applications.
     
     Subadmin: Subadmins are responsible for managing reservation requests. They can view incoming requests from users and choose to either confirm or decline them.
+
+Note: In order for everything to work properly the ip must be changed to the ip of the device.
